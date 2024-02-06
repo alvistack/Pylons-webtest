@@ -1,0 +1,5 @@
+python-webtest source: file-without-copyright-information
+python-webtest source: no-debian-changes
+python-webtest source: source-contains-prebuilt-windows-binary
+python-webtest source: source-is-missing
+python-webtest source: source-package-encodes-python-version
