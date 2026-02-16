@@ -1,0 +1,4 @@
+python3-webtest: copyright-without-copyright-notice
+python3-webtest: initial-upload-closes-no-bugs
+python3-webtest: no-manual-page
+python3-webtest: zero-byte-file-in-doc-directory
